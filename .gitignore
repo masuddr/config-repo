@@ -1,0 +1,23 @@
+# IDE specific files
+.idea/
+.vscode/
+*.sublime-workspace
+
+# Compiled output
+/target/
+/build/
+/dist/
+*.class
+*.jar
+
+# Logs
+*.log
+log/
+logs/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Dependencies
+/node_modules/
